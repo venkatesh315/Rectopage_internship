@@ -1,0 +1,432 @@
+{
+	"year": 2001,
+	"department": "Mechanical(MECH)",
+	"questions": [{
+			"question_number": 1.1,
+			"question": "The divergence of vector r = xi  + yj +zk is",
+			"options": ["i + j  + k ", 3, 0, 1],
+			"correct_answer": 3,
+			"correct_option_number ": 2
+		},
+		{
+			"question_number": 1.2,
+			"question": "Consider the system of equations given below: x+y=2  2x+2y=5   This system has ",
+			"options": ["one solution", "no solution", "infinite solution", "four solutions"],
+			"correct_answer": "no solution",
+			"correct_option_number": 2
+		},
+		{
+			"question_number": 1.3,
+			"question": "What is the derivative of f(z) = |x| at x=0 ?",
+			"options": [1, -1, 0, "does not exist"],
+			"correct_answer": "does not exisit",
+			"correct_option_number": 4 
+		},
+
+		{
+			"question_number": 1.4,
+			"question": "The Gauss divergence theorem relates certain ",
+			"options": [" surface integrals to volume integrals ", "surface integrals to line integrals ", "vector quantities to other vector quantities ", "line integrals to volume integrals "],
+			"correct_answer": "surface integrals to volume integrals",
+			"correct_option_number": 1
+		},
+
+		{
+			"question_number": 1.5,
+			"question": "For a spring-loaded roller-follower driven with a disc cam ",
+			"options": [" the pressure angle should be larger during rise than that during return for ease of transmitting motion ", "the pressure angle should be smaller during rise than that during return for ease of transmitting motion ", "the pressure angle should be large during rise as well as during return for ease of transmitting motion ", "the pressure angle does not affect the ease of transmitting motion "],
+			"correct_answer": " the pressure angle should be large during rise as well as during return for ease of transmitting motion  ",
+			"correct_option_number": 3
+		},
+
+		{
+			"question_number": 1.6,
+			"question": "The shape of the bending moment diagram for a uniform cantilever beam carrying a uniformly distributed load over its length is ",
+			"options": [" a straight line ", " a hyperbola  ", " a ellipse  ", " a parabola  "],
+			"correct_answer": " a parabola  ",
+            "correct_option_number": 4
+            
+        },
+        
+
+        {
+			"question_number": 1.7,
+			"question": " In the figure shown, the spring deflects by δ  to position A (the equilibrium position) when a mass m is kept on it. During free vibration, the mass is at position B at some instant. The change in potential energy of the spring-mass system from position A to position B is",
+			"options": [" (1/2)Kx^2", "(1/2)kx^2 - mgx ", "(1/2)k(x + δ)^2 ", " (1/2)Kx^2 + mgx "],
+			"correct_answer": " (1/2)kx^2 - mgx ",
+            "correct_option_number": 2
+            
+        },
+        
+
+        {
+			"question_number": 1.8,
+			"question": " A particle P is projected from the earth surface at latitude 45° with escape velocity v=11.19 km/s. the velocity direction makes an angle α with the local vertical. The particle will escape the earth’s gravitational field ",
+			"options": [" only when α = 0", "only when α = 45°", " only when α = 90° ", " irrespective of the value of α"],
+			"correct_answer": " irrespective of the value of α ",
+            "correct_option_number": 4
+            
+        },
+
+        
+        {
+			"question_number": 1.9,
+			"question": " Bars AB and BC, each of negligible mass, support load P as shown in the figure. In this arrangement, ",
+			"options": ["bar AB is subjected to bending but bar BC is not subjected to bending", "bar AB is not subjected to bending but bar BC is subjected to bending   ", " neither bar AB nor bar BC is subjected to bending ", " both bars AB and BC are subjected to bending"],
+			"correct_answer": " neither bar AB nor bar BC is subjected to bending",
+            "correct_option_number": 3
+            
+        },
+        
+
+        {
+			"question_number": 1.10,
+			"question": " The area moment of inertia of a square of size 1 unit about its diagonal is ",
+			"options": [" (1/3)", " (1/4) ", " (1/12) ", " (1/6)"],
+			"correct_answer": "(1/12) ",
+            "correct_option_number": 3
+        },
+        
+
+        {
+			"question_number": 1.11,
+			"question": " Which of the following statement is correct? ",
+			"options": ["Flywheel reduces speed fluctuations during a cycle for a constant load, but flywheel does not control the mean speed of the engine if the load changes", " Flywheel does not reduce speed fluctuation during a cycle for a constant load, but flywheel does not control the mean speed of the engine if the load changes ", " Governor controls speed fluctuations during a cycle for a constant load, but governor does not control the mean speed of the engine if the load changes. ", "Governor controls speed fluctuations during a cycle for a constant load, and governor also control the mean speed of the engine if the load changes"],
+			"correct_answer": " Flywheel reduces speed fluctuations during a cycle for a constant load, but flywheel does not control the mean speed of the engine if the load changes. ",
+            "correct_option_number": 1
+        },
+
+        {
+			"question_number": 1.12,
+			"question": " The SI unit of kinematic viscosity (n) is ",
+			"options": ["m^2/sec", " kg/(m-sec)", " m/sec^2 ", "m^3/sec^2"],
+			"correct_answer": " m^2/sec ",
+            "correct_option_number": 1
+        },
+
+        {
+			"question_number": 1.13,
+			"question": " A static fluid can have ",
+			"options": ["non-zero normal and shear stress", " negative normal stress and zero shear stress", " positive normal stress and zero shear stress ", " zero normal stress and non-zero shear stress"],
+			"correct_answer": " positive normal stress and zero shear stress ",
+            "correct_option_number": 3
+        },
+
+        {
+			"question_number": 1.14,
+			"question": " A gas having a negative Joule-Thompson coefficient (μ < 0), when throttled, will ",
+			"options": ["become cooler", " become warmer ", " emain at the same temperature ", " either be cooler or warmer depending on the type of gas"],
+			"correct_answer": " become warmer ",
+            "correct_option_number": 2
+        },
+
+
+        {
+			"question_number": 1.15,
+			"question": " Lumped heat transfer analysis of a solid object suddenly exposed to a fluid medium at a different temperature is valid when ",
+			"options": ["Biot number < 0.1", " Biot number > 0.1", " Fourier number < 0.1 ", "Fourier number > 0.1"],
+			"correct_answer": " Biot number < 0.1 ",
+            "correct_option_number": 1
+        },
+
+        {
+			"question_number": 1.16,
+			"question": " The Rateau turbine belongs to the category of ",
+			"options": ["pressure compounded turbine", " reaction turbine ", " velocity compounded turbine ", "radial flow turbine"],
+			"correct_answer": " pressure compounded turbine ",
+            "correct_option_number": 1
+        },
+
+        {
+			"question_number": 1.17,
+			"question": " For the circular tube of equal length and diameter shown below, the view factor F13 is 0.17. the view factor F12 in this case will be",
+			"options": [0.17, 0.21 ,  0.79 , 0.83],
+			"correct_answer": 0.83 ,
+            "correct_option_number": 4
+        },
+
+        {
+			"question_number": 1.18,
+			"question": " In descending order of magnitude, the thermal conductivity of (a) pure iron, (b) liquid water, (c) saturated water vapour and (d) aluminum can be arranged as ",
+			"options": ["a b c d", " b c a d", " d a b c ", "d c b a"],
+			"correct_answer": " d a b c ",
+            "correct_option_number": 3
+        },
+
+        {
+			"question_number": 1.19,
+			"question": " Shrinkage allowance on pattern is provided to compensate for shrinkage when ",
+			"options": ["the temperature of liquid metal drops from pouring to freezing temperature", " the metal changes from liquid to solid state at freezing temperature", " the temperature of solid phase drops from freezing to room temperature", "the temperature of metal drops from pouring to room temperature"],
+			"correct_answer": " the temperature of solid phase drops from freezing to room temperature ",
+            "correct_option_number": 3
+        },
+
+        {
+			"question_number": 1.20,
+			"question": " The cutting force in punching and blanking operations mainly depends on ",
+			"options": ["the modulus of elasticity of metal", "the shear strength of metal", " the bulk modulus of metal", "the yield strength of metal"],
+			"correct_answer": " the shear strength of metal ",
+            "correct_option_number": 2
+        },
+
+
+        {
+			"question_number": 1.21,
+			"question": " In ECM, the material removal is due to ",
+			"options": ["corrosion", " erosion", " fusion ", "ion displacement"],
+			"correct_answer": " ion displacement ",
+            "correct_option_number": 4
+        },
+
+        {
+			"question_number": 1.22,
+			"question": " Two plates of the same metal having equal thickness are to be butt welded with electric arc. When the plate thickness changes, welding is achieved by ",
+			"options": ["adjusting the current", " adjusting the duration of current", " changing the electrode size ", "changing the electrode coating"],
+			"correct_answer": " changing the electrode size ",
+            "correct_option_number": 3
+        },
+
+        {
+			"question_number": 1.23,
+			"question": " Allowance in limits and fits refers to ",
+			"options": ["maximum clearance between shaft and hole", " minimum clearance between shaft and hole", " difference between maximum and minimum size of hole ", "difference between maximum and minimum size of shaft"],
+			"correct_answer": " maximum clearance between shaft and hole ",
+            "correct_option_number": 1
+        },
+
+        {
+			"question_number": 1.24,
+			"question": " Production flow analysis (PFA) is a method of identifying part families that uses data from ",
+			"options": ["engineering drawings", " production schedule ", " bill of materials", "route sheets"],
+			"correct_answer": " production schedule ",
+            "correct_option_number": 2
+        },
+
+
+        {
+			"question_number": 1.25,
+			"question": " When using a simple moving average to forecast demand, one would ",
+			"options": ["give equal weight to all demand data", " assign more weight to the recent demand data", " include new demand data in the average without discarding the earlier data", "include new demand data in the average after discarding some of the earlier demand data"],
+			"correct_answer": " include new demand data in the average after discarding some of the earlier demand data ",
+            "correct_option_number": 4
+        },
+
+
+
+
+
+
+
+        {
+			"question_number": 2.1,
+			"question": " The minimum point of the function f (x) = (x^3 3) − x is at ",
+			"options": ["x = 1", " x = -1 ", " x = 0 ", " x=1⁄√3"],
+			"correct_answer": " x = 1 ",
+            "correct_option_number": 1
+        },
+
+        {
+			"question_number": 2.2,
+			"question": " The rank of a 3 × 3 matrix C ( = AB), found by multiplying a non-zero column matrix A of size 3 × 1 and a non-zero row matrix B of size 1 × 3, is ",
+			"options": [0, 1 , 2 , 3],
+			"correct_answer": 0 ,
+            "correct_option_number": 1
+        },
+
+
+        {
+			"question_number": 2.3,
+			"question": " An unbiased coin is tossed three times. The probability that the head turns up in  exactly two cases is ",
+			"options": [   "1/9" ,  "1/8" ,    "2/8"  ,   "3/8"],
+			"correct_answer": "3/8" ,
+            "correct_option_number": 4
+        },
+
+        
+        {
+			"question_number": 2.4,
+			"question": " Two helical tensile springs of the same material and also having identical mean coil diameter and weight, have wire diameters d and d/2 .The ratio of their stiffness is ",
+			"options": [  1 ,  4 ,   64  ,  128],
+			"correct_answer": 64 ,
+            "correct_option_number": 3
+        },
+
+
+        {
+			"question_number": 2.5,
+			"question": " The maximum principal stress for the stress state shown in the figure is ",
+			"options": [ "σ" ,  "2σ" ,  "3σ"  ,  "1.5σ"],
+			"correct_answer": "2σ" ,
+            "correct_option_number": 2
+        },
+
+    
+        {
+			"question_number": 2.6,
+			"question": " The sun gear in the figure is driven clockwise at 100 rpm. The ring gear is held stationary. For the number of teeth shown on the gears, the arm rotates at ",
+			"options": [ "0 rpm" ,  "20 rpm" ,  "33.33 rpm "  ,  "66.67 rpm"],
+			"correct_answer": "20 rpm" ,
+            "correct_option_number": 2
+        },
+
+        
+        {
+			"question_number": 2.7,
+			"question": " For the loading on truss shown in the figure, the force in member CD is ",
+			"options": [ "0 kN" ,  "1kN" ,  "√2 kN"  ,  "(1/2)√2 kN"],
+			"correct_answer": "0 kN" ,
+            "correct_option_number": 1
+        },
+
+        {
+			"question_number": 2.8,
+			"question": " Bodies 1 and 2 shown in the figure have equal mass m. All surfaces are smooth. The value of force P required to prevent sliding of body 2 on body 1 is ",
+			"options": [ "P = 2mg" ,  "P = √2 mg" ,  " P= 2√2 mg "  ,  " P= mg"],
+			"correct_answer": "P= mg" ,
+            "correct_option_number": 4
+        },
+
+        {
+			"question_number": 2.9,
+			"question": " The assembly shown in the figure is composed of two massless rods of length l with two particles, each of mass m. the natural frequency of this assembly for small oscillations is ",
+			"options": [ "√g/√l" ,  "√2g/(√lcos α)" ,  " √g/(√lcos α)"  ,  " √(gcosα)/√l"],
+			"correct_answer": " √(gcosα)/√l" ,
+            "correct_option_number": 4
+		},
+		
+
+		
+        {
+			"question_number": 2.10,
+			"question": " Mass M slides in a frictionless slot in the horizontal direction and the bob of mass m is hinged to mass M at C, through a rigid massless rod. This system is released from rest with θ=30°. At the instant when θ = 0, the velocities of m and M can be determined using the fact that, for the system (i.e., m and M together), ",
+			"options": [ "the linear momentum in x and y directions are conserved but the energy is not conserved" ,  "the linear momentum in x and y directions are conserved and the energy is also conserved" ,  " the linear momentum in x direction is conserved and the energy is also conserved "  ,  " the linear momentum in y direction is conserved and the energy is also conserved"],
+			"correct_answer": "the linear momentum in x direction is conserved and the energy is also conserved" ,
+            "correct_option_number": 3
+		},
+		
+		{
+			"question_number": 2.11,
+			"question": "A cyclic heat engine does 50 kJ of work per cycle. If the efficiency of the heat engine is 75%, the heat rejected per cycle is ",
+			"options": [ "16(2/3)kJ" ,  "33(1/3)kJ" ,  "37(1/2)kJ"  ,  "66(2/3)kJ"],
+			"correct_answer": "16(2/3)kJ" ,
+            "correct_option_number": 1
+		},
+
+		{
+			"question_number": 2.12,
+			"question": "A single-acting two-stage compressor with complete intercooling delivers air at 16 bar. Assuming an intake state of 1 bar at 15°C, the pressure ratio per stage is",
+			"options": [ 16 ,  8 ,  4  ,  2],
+			"correct_answer": 4 ,
+            "correct_option_number": 3
+		},
+
+		{
+			"question_number": 2.13,
+			"question": "The horizontal and vertical hydrostatic forces Fx and Fy on the semi-circular gate, having a width w into the plane of figure, are",
+			"options": [ "Fx = ρghrω and Fy = 0" , "Fx =2ρghrω and Fy = (ρgωr^2)/2" ,  "Fx =2ρghrω"  , "Fy = (πρgωr^2)/2" ],
+			"correct_answer": "Fy = (πρgωr^2)/2" ,
+            "correct_option_number": 4
+		},
+
+		{
+			"question_number": 2.14,
+			"question": "The 2-D flow with velocity v=(x+2y+2)i + (4-y)j   is ",
+			"options": ["compressible and irrotational" , "compressible and not irrotational" ,  "incompressible and irrotational"  , "incompressible and not irrotational"],
+			"correct_answer": "incompressible and not irrotational" ,
+            "correct_option_number": 4
+		},
+
+
+		{
+			"question_number": 2.15,
+			"question": "A small steam whistle (perfectly insulated and doing no shaft work) causes a drop of 0.8 kJ/kg in the enthalpy of steam from entry to exit. If the kinetic energy of the steam at entry is negligible, the velocity of the steam at exit is ",
+			"options": ["4 m/s" , "40 m/s" ,  "80 m/s"  , "120 m/s"],
+			"correct_answer": "40 m/s" ,
+            "correct_option_number": 2
+		},
+
+		{
+			"question_number": 2.16,
+			"question": "For air at a given temperature, as the relative humidity is increased isothermally, ",
+			"options": ["the wet bulb temperature and specific enthalpy increase" , "the wet bulb temperature and specific enthalpy decrease" ,  "the wet bulb temperature increases and specific enthalpy decreases "  , "the wet bulb temperature decreases and specific enthalpy increases"],
+			"correct_answer": "the wet bulb temperature increases and specific enthalpy decreases" ,
+            "correct_option_number": 3
+		},
+
+		{
+			"question_number": 2.17,
+			"question": " Water (Prandtl number u 6) flows over a flat plate which is heated over the entire length. Which one of the following relationship between the hydrodynamic boundary layer thickness (δ) and the thermal boundary layer thickness (δt) is true? ",
+			"options": ["δt > δ" , "δt < δ" ,  "δt = δ"  , "Cannot be predicted"],
+			"correct_answer": "δt < δ" ,
+            "correct_option_number": 2  
+		},
+
+
+		{
+			"question_number": 2.18,
+			"question": "In a spark ignition engine working on the ideal Otto cycle, the compression ratio is 5.5. The work output per cycle (i.e., area of the P-V diagram) is equal to 23.625×105×VcJ where Vc is the clearance volume in m^3. The indicated mean effective pressure is ",
+			"options": ["4.295 bar" , "5.250 bar" ,  "86.870 bar"  , "106.300 bar"],
+			"correct_answer": "5.250 bar" ,
+            "correct_option_number": 2  
+		},
+
+		{
+			"question_number": 2.19,
+			"question": "The height of the down-sprue is 175 mm and its cross-sectional area at the base is 200 mm^2 .The cross-sectional area of the horizontal runner is also  200 mm^2. assuming no losses, indicate the correct choice for the time (in seconds) required to fill a mold cavity of volume 10^6 mm^3.(Use g = 10 m/s2)",
+			"options": [2.67 , 8.45 ,  26.72  , 84.50],
+			"correct_answer": 2.67 ,
+            "correct_option_number": 1
+		},
+
+		
+		{
+			"question_number": 2.20,
+			"question": "For rigid perfectly plastic work material, negligible interface friction and no redundant work, the theoretically maximum possible reduction in the wire drawing operation is",
+			"options": [0.36 , 0.63 ,  1.00 , 2.72],
+			"correct_answer": 0.63 ,
+            "correct_option_number": 2
+		},
+
+
+		{
+			"question_number": 2.21,
+			"question": "During orthogonal cutting of mild steel with a 10° rake angle tool the chip thickness ratio was obtained as 0.4. the shear angle (in degrees) evaluated from this data is",
+			"options": [6.53 , 20.22 , 22.94 , 50.00],
+			"correct_answer": 22.94 ,
+            "correct_option_number": 3
+		},
+
+		{
+			"question_number": 2.22,
+			"question": "Resistance spot welding is performed on two plates of 1.5 mm thickness with 6 mm diameter electrode, using 15000 A current for a time duration of 0.25 seconds. Assuming the interface resistance to be 0.0001 Ω, the heat generated to form the weld is",
+			"options": ["5625 W-sec" , "8437 W-sec" , "22500 W-sec" , "33750 W-sec"],
+			"correct_answer": "5625 W-sec" ,
+            "correct_option_number": 1
+		},
+
+		{
+			"question_number": 2.23,
+			"question": "Fifty observations of a production operation revealed a mean cycle time of 10 min. the worker was evaluated to be performing at 90% efficiency. Assuming the allowances to be 10% of the normal time, the standard time (in seconds) for the job is ",
+			"options": [0.198 , 7.3 , 9.0 , 9.9],
+			"correct_answer": 9.0 ,
+            "correct_option_number": 3
+		},
+
+		{
+			"question_number": 2.24,
+			"question": "3-2-1 method of location in a jig or fixture would collectively restrict the work piece in n degrees of freedom, where the value of n is ",
+			"options": [6 , 8 , 9 , 12],
+			"correct_answer": 9 ,
+            "correct_option_number": 3
+		},
+
+
+		{
+			"question_number": 2.25,
+			"question": "In an NC machining operation, the tool has to be moved from point (5,4) to point (7,2) along a circular path with center at (5,2). Before starting the operation, the tool is at (5,4). The correct G and M code for this motion is ",
+			"options": ["N010 G03 X7.0 Y2.0 I5.0 J2.0" , "N010 G02 X7.0 Y2.0 I5.0 J2.0", "N010 G01 X7.0 Y2.0 I5.0 J2.0" ,"N010 G00 X7.0 Y2.0 I5.0 J2.0"],
+			"correct_answer": "N010 G02 X7.0 Y2.0 I5.0 J2.0" ,
+            "correct_option_number": 2
+		}
+	]
+}
