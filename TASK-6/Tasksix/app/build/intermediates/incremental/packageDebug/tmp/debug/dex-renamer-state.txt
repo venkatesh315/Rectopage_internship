@@ -1,0 +1,4 @@
+#Mon Mar 08 14:53:20 IST 2021
+base.0=A\:\\Tasksix\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
